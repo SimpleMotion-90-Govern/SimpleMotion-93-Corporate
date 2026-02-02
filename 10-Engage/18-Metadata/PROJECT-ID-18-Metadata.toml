@@ -1,0 +1,38 @@
+# Project Metadata for {{PROJECT_TITLE}}
+# Version: 1
+
+[project]
+id = "{{PROJECT_ID}}"
+title = "{{PROJECT_TITLE}}"
+
+[client]
+name = "{{CLIENT_NAME}}"
+short_name = "{{CLIENT_SHORT_NAME}}"
+address_line1 = ""
+address_line2 = ""
+
+[client.contact]
+salutation = ""
+title = ""
+email = ""
+phone = ""
+
+[client.contact.name]
+first = ""
+last = ""
+
+[simplemotion]
+entity = "SimpleMotion.Projects Pty Ltd"
+short_name = "SimpleMotion"
+abn = "67 126 272 197"
+address_line1 = "20-22 Hampstead Rd"
+address_line2 = "AUBURN NSW 2144, Australia"
+phone = "+61 2 9046 1400"
+website = "www.simplemotion.com"
+
+[simplemotion.author]
+name = "Greg Gowans"
+pronouns = "he/him"
+title = "Managing Director"
+mobile = "+61 418 888 604"
+email = "greg.gowans@simplemotion.com"

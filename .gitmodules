@@ -1,0 +1,3 @@
+[submodule ".claude"]
+	path = .claude
+	url = https://github.com/SimpleMotion-99-Templates/990003-ST-99-Default-Dot-Claude.git
